@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Leite Condensado"
+    },
+    {
+      "name": "Morango"
+    },
+    {
+      "name": "Limão"
+    },
+    {
+      "name": "Banana"
+    },
+    {
+      "name": "Bombom"
+    }
+  ]
+}
